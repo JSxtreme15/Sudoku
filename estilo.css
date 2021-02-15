@@ -1,0 +1,38 @@
+nav {
+    background-color: rgba(121, 119, 240, 0.438);
+    margin-top: -1%;
+    margin-left: -1%;
+    margin-right: -1%;
+    margin-bottom: 2%;
+}
+img {
+    margin-top: 1%;
+    margin-left: 3%;
+    max-width:100px;
+    max-height:50px;
+    width: auto;
+    height: auto;
+}
+.apresentation {
+    text-align: center;
+}
+.game {
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    border-radius: 5%;
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h2,h3,h4,p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2 {
+    margin-left: 11%;
+    margin-top: -3%;
+}td {
+    color: white;
+    text-align: center;
+    font-size: 400%;
+}
